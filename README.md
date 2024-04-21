@@ -65,7 +65,7 @@ The project is managed and version-controlled using Git and GitHub, which allows
 ```
     pip3 install flask-cors
 ```
-### `Step 6:` Install OpenCV
+### `Step 6:` Install Ultralytics
 ```
     pip3 install ultralytics
 ```
